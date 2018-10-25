@@ -1,0 +1,15 @@
+{
+  "name": "coding-challenges",
+  "version": "1.0.0",
+  "description": "Coding Challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Michael McCabe",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
