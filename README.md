@@ -3,4 +3,4 @@ My Answers to Coding Problems to help develop my Data Structures & Algorithm ski
 
 Includes Challenges from [CodeWars](https://www.codewars.com) and [LeetCode](https://leetcode.com/)
 
-Also includes unit tests
+Also includes unit tests using `npm test`
